@@ -22,3 +22,7 @@
 self → Object
 cls → Class
 neither → Static Method
+
+Instance Method → self ব্যবহার করে specific object-এর data নিয়ে কাজ করে।
+Class Method → cls ব্যবহার করে class-level data নিয়ে কাজ করে।
+Static Method → self/cls ছাড়াই class-এর সাথে logically related independent কাজ করে।
